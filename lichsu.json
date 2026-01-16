@@ -1,0 +1,22 @@
+{
+  "994506434299568179": [
+    {
+      "time": "1/16/2026, 9:58:02 PM",
+      "action": "NỘP",
+      "type": "tienquy",
+      "amount": 100
+    },
+    {
+      "time": "1/16/2026, 9:58:31 PM",
+      "action": "NỘP",
+      "type": "caosu",
+      "amount": 50
+    },
+    {
+      "time": "1/16/2026, 9:58:45 PM",
+      "action": "NỘP",
+      "type": "kimloai",
+      "amount": 30
+    }
+  ]
+}

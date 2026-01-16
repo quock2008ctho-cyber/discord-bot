@@ -1,0 +1,62 @@
+{
+  "users": {
+    "994506434299568179": {
+      "tienquy": 32703232,
+      "caosu": 32830,
+      "kimloai": 200200000,
+      "rank": {
+        "tienquy": 32723232,
+        "caosu": 32830,
+        "kimloai": 200200000
+      }
+    },
+    "493716749342998541": {
+      "tienquy": 10000,
+      "caosu": 323,
+      "kimloai": 0,
+      "rank": {
+        "tienquy": 10000,
+        "caosu": 323,
+        "kimloai": 0
+      }
+    },
+    "786234973308715008": {
+      "tienquy": 10000,
+      "caosu": 0,
+      "kimloai": 0,
+      "rank": {
+        "tienquy": 10000,
+        "caosu": 0,
+        "kimloai": 0
+      }
+    },
+    "159985870458322944": {
+      "tienquy": 23232,
+      "caosu": 20,
+      "kimloai": 20,
+      "rank": {
+        "tienquy": 23232,
+        "caosu": 20,
+        "kimloai": 20
+      }
+    },
+    "1248205177589334026": {
+      "tienquy": 0,
+      "caosu": 200,
+      "kimloai": 0,
+      "rank": {
+        "tienquy": 0,
+        "caosu": 200,
+        "kimloai": 0
+      }
+    }
+  },
+  "gang": {
+    "tienquy": 32746464,
+    "caosu": 33373,
+    "kimloai": 200200020
+  },
+  "system": {
+    "lastResetWeek": null
+  }
+}
