@@ -11,7 +11,6 @@ const client = new Client({
 });
 
 /* ================= CONFIG ================= */
-const TOKEN = "MTQ2MTc0MzY4MDU0NDMwOTI4OQ.GMLoDe.MkpesJsF5X3xxvxAnj4XZJa3EgeTkIMh_5sCT4"; // 🔑 DÁN TOKEN VÀO ĐÂY
 const DATA_FILE = "./data.json";
 
 /* ================= LOAD DATA ================= */
@@ -222,4 +221,5 @@ function sendTopRanking() {
 }
 
 /* ================= LOGIN ================= */
-client.login(TOKEN);
+client.login(process.env.TOKEN);
+
